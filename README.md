@@ -5,7 +5,6 @@ Last wave (OUT RUN) for PiStarter.
 
 ## Description
 OUT RUNより、Last wave。
-
 PiStarter用。
 
 ## Author
