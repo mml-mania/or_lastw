@@ -4,8 +4,13 @@ Last wave (OUT RUN)
 Last wave (OUT RUN) for PiStarter.
 
 ## Description
-OUT RUNより、Last wave。
-PiStarter用。
+Last wave from OUT RUN.
+
+For PiStarter (Smilebasic).
+
+## Requirement
+[Pi-starter](http://smilebasic.com/pistarter/)
+
 
 ## Author
 
